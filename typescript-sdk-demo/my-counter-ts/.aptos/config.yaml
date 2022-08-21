@@ -1,0 +1,8 @@
+---
+profiles:
+  testfeng:
+    private_key: "0x01d4b8e9481cdf71916b7a384d46d0e208ba5221d1527de21f62fccd9db6e688"
+    public_key: "0x3831d6691a96cbd298c2f0dc713ad79f56de452dad06982d890d33ab907b66d1"
+    account: 173d51b1d50614b03d0c18ffcd958309042a9c0579b6b21fc9efeb48cdf6e0b0
+    rest_url: "http://localhost:8080/"
+    faucet_url: "http://localhost:8081/"

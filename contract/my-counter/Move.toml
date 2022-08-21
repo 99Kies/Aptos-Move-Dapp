@@ -1,0 +1,9 @@
+[package]
+name = "MyCounter"
+version = "0.0.0"
+
+[addresses]
+MyCounterAddr = "0x173d51b1d50614b03d0c18ffcd958309042a9c0579b6b21fc9efeb48cdf6e0b0"
+
+[dependencies]
+AptosFramework = { local = "../../framework/aptos-framework" }

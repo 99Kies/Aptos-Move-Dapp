@@ -1,0 +1,29 @@
+---
+compiled_package_info:
+  package_name: MyCounter
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    MyCounterAddr: 6ed9ceadd7f04e9e30f39a70b2b8f090cefe6b886f8766d3e1ed1fb70655e9c3
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    basecoin: 6ed9ceadd7f04e9e30f39a70b2b8f090cefe6b886f8766d3e1ed1fb70655e9c3
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: F84E3D956ACB5961849C72CA94EAD3CC9BE063574BAB9035BAEE867C348617F7
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: true
+    generate_abis: true
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses:
+      basecoin: 6ed9ceadd7f04e9e30f39a70b2b8f090cefe6b886f8766d3e1ed1fb70655e9c3
+    architecture: ~
+    fetch_deps_only: false
+dependencies:
+  - AptosExperimental
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib
